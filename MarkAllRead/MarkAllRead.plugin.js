@@ -1,8 +1,8 @@
 /**
  * @name MarkAllRead
- * @source https://github.com/r8z/better-discord-plugins/blob/main/MarkAllRead/MarkAllRead.plugin.js
- * @updateUrl https://raw.githubusercontent.com/r8z/better-discord-plugins/main/MarkAllRead/MarkAllRead.plugin.js
- * @website https://github.com/r8z/better-discord-plugins/tree/main/MarkAllRead/MarkAllRead.plugin.js
+ * @source https://github.com/r8z/rplugins/blob/main/MarkAllRead/MarkAllRead.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/r8z/rplugins/main/MarkAllRead/MarkAllRead.plugin.js
+ * @website https://github.com/r8z/rplugins/tree/main/MarkAllRead/MarkAllRead.plugin.js
  * @authorId 361501992645820416
  */
 
@@ -44,7 +44,7 @@ module.exports = (() => {
          version: '3.0.8',
          description: 'Adds the command "read" that reads channels, DMs and removes pings.',
          github: 'https://github.com/r8z',
-         github_raw: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/MarkAllRead/MarkAllRead.plugin.js'
+         github_raw: 'https://raw.githubusercontent.com/r8z/rplugins/main/MarkAllRead/MarkAllRead.plugin.js'
       }
    };
 
@@ -88,8 +88,8 @@ module.exports = (() => {
             {
                global: 'CommandsAPI',
                filename: '2CommandsAPI.plugin.js',
-               external: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/CommandsAPI/2CommandsAPI.plugin.js',
-               url: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/CommandsAPI/2CommandsAPI.plugin.js'
+               external: 'https://raw.githubusercontent.com/r8z/rplugins/main/CommandsAPI/2CommandsAPI.plugin.js',
+               url: 'https://raw.githubusercontent.com/r8z/rplugins/main/CommandsAPI/2CommandsAPI.plugin.js'
             }
          ];
 

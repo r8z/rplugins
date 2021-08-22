@@ -1,8 +1,8 @@
 /**
  * @name CommandsAPI
- * @source https://github.com/r8z/better-discord-plugins/blob/main/CommandsAPI/2CommandsAPI.plugin.js
- * @updateUrl https://raw.githubusercontent.com/r8z/better-discord-plugins/main/CommandsAPI/2CommandsAPI.plugin.js
- * @website https://github.com/r8z/better-discord-plugins/tree/main/CommandsAPI/2CommandsAPI.plugin.js
+ * @source https://github.com/r8z/rplugins/blob/main/CommandsAPI/2CommandsAPI.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/r8z/rplugins/main/CommandsAPI/2CommandsAPI.plugin.js
+ * @website https://github.com/r8z/rplugins/tree/main/CommandsAPI/2CommandsAPI.plugin.js
  * @authorId 361501992645820416
  */
 
@@ -44,7 +44,7 @@ module.exports = (() => {
          version: '1.1.6',
          description: 'Adds a command system to BetterDiscord for other plugins to utilize..',
          github: 'https://github.com/r8z',
-         github_raw: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/CommandsAPI/2CommandsAPI.plugin.js'
+         github_raw: 'https://raw.githubusercontent.com/r8z/rplugins/main/CommandsAPI/2CommandsAPI.plugin.js'
       },
       defaultConfig: [
          {

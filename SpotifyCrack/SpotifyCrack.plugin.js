@@ -1,8 +1,8 @@
 /**
  * @name SpotifyCrack
- * @source https://github.com/r8z/better-discord-plugins/blob/main/SpotifyCrack/SpotifyCrack.plugin.js
- * @updateUrl https://raw.githubusercontent.com/r8z/better-discord-plugins/main/SpotifyCrack/SpotifyCrack.plugin.js
- * @website https://github.com/r8z/better-discord-plugins/tree/main/SpotifyCrack/SpotifyCrack.plugin.js
+ * @source https://github.com/r8z/rplugins/blob/main/SpotifyCrack/SpotifyCrack.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/r8z/rplugins/main/SpotifyCrack/SpotifyCrack.plugin.js
+ * @website https://github.com/r8z/rplugins/tree/main/SpotifyCrack/SpotifyCrack.plugin.js
  * @authorId 361501992645820416
  */
 
@@ -44,7 +44,7 @@ module.exports = (() => {
          version: '2.0.3',
          description: 'Allows you to listen along with discord users without premium.',
          github: 'https://github.com/r8z',
-         github_raw: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/SpotifyCrack/SpotifyCrack.plugin.js'
+         github_raw: 'https://raw.githubusercontent.com/r8z/rplugins/main/SpotifyCrack/SpotifyCrack.plugin.js'
       },
    };
 

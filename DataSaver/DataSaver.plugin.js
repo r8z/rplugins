@@ -1,8 +1,8 @@
 /**
  * @name DataSaver
- * @source https://github.com/r8z/better-discord-plugins/blob/main/DataSaver/DataSaver.plugin.js
- * @updateUrl https://raw.githubusercontent.com/r8z/better-discord-plugins/main/DataSaver/DataSaver.plugin.js
- * @website https://github.com/r8z/better-discord-plugins/blob/main/DataSaver/DataSaver.plugin.js
+ * @source https://github.com/r8z/rplugins/blob/main/DataSaver/DataSaver.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/r8z/rplugins/main/DataSaver/DataSaver.plugin.js
+ * @website https://github.com/r8z/rplugins/blob/main/DataSaver/DataSaver.plugin.js
  * @authorId 361501992645820416
  */
 
@@ -44,7 +44,7 @@ module.exports = (() => {
          version: '1.0.5',
          description: 'Saves friends & Servers every 30 minutes to a file.',
          github: 'https://github.com/r8z',
-         github_raw: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/DataSaver/DataSaver.plugin.js'
+         github_raw: 'https://raw.githubusercontent.com/r8z/rplugins/main/DataSaver/DataSaver.plugin.js'
       },
    };
 

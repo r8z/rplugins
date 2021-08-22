@@ -1,8 +1,8 @@
 /**
  * @name VoiceChatMoveAll
- * @source https://github.com/r8z/better-discord-plugins/blob/main/VoiceChatMoveAll/VoiceChatMoveAll.plugin.js
- * @updateUrl https://raw.githubusercontent.com/r8z/better-discord-plugins/main/VoiceChatMoveAll/VoiceChatMoveAll.plugin.js
- * @website https://github.com/r8z/better-discord-plugins/tree/main/VoiceChatMoveAll/VoiceChatMoveAll.plugin.js
+ * @source https://github.com/r8z/rplugins/blob/main/VoiceChatMoveAll/VoiceChatMoveAll.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/r8z/rplugins/main/VoiceChatMoveAll/VoiceChatMoveAll.plugin.js
+ * @website https://github.com/r8z/rplugins/tree/main/VoiceChatMoveAll/VoiceChatMoveAll.plugin.js
  * @authorId 282595588950982656
  */
 
@@ -44,7 +44,7 @@ module.exports = (() => {
          version: '2.0.3',
          description: 'A context menu utility to move everyone to a certain voice channel.',
          github: 'https://github.com/r8z',
-         github_raw: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/VoiceChatMoveAll/VoiceChatMoveAll.plugin.js'
+         github_raw: 'https://raw.githubusercontent.com/r8z/rplugins/main/VoiceChatMoveAll/VoiceChatMoveAll.plugin.js'
       },
    };
 

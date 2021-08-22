@@ -1,8 +1,8 @@
 /**
  * @name GameActivityToggle
- * @source https://github.com/r8z/better-discord-plugins/blob/main/GameActivityToggle/GameActivityToggle.plugin.js
- * @updateUrl https://raw.githubusercontent.com/r8z/better-discord-plugins/main/GameActivityToggle/GameActivityToggle.plugin.js
- * @website https://github.com/r8z/better-discord-plugins/tree/main/GameActivityToggle/GameActivityToggle.plugin.js
+ * @source https://github.com/r8z/rplugins/blob/main/GameActivityToggle/GameActivityToggle.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/r8z/rplugins/main/GameActivityToggle/GameActivityToggle.plugin.js
+ * @website https://github.com/r8z/rplugins/tree/main/GameActivityToggle/GameActivityToggle.plugin.js
  * @authorId 361501992645820416
  */
 
@@ -44,7 +44,7 @@ module.exports = (() => {
          version: '1.0.6',
          description: 'Adds an entry in the status picker to toggle game activity.',
          github: 'https://github.com/r8z',
-         github_raw: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/GameActivityToggle/GameActivityToggle.plugin.js'
+         github_raw: 'https://raw.githubusercontent.com/r8z/rplugins/main/GameActivityToggle/GameActivityToggle.plugin.js'
       },
    };
 

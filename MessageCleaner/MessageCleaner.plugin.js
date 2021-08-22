@@ -1,8 +1,8 @@
 /**
  * @name MessageCleaner
- * @source https://github.com/r8z/better-discord-plugins/blob/main/MessageCleaner/MessageCleaner.plugin.js
- * @updateUrl https://raw.githubusercontent.com/r8z/better-discord-plugins/main/MessageCleaner/MessageCleaner.plugin.js
- * @website https://github.com/r8z/better-discord-plugins/tree/main/MessageCleaner/MessageCleaner.plugin.js
+ * @source https://github.com/r8z/rplugins/blob/main/MessageCleaner/MessageCleaner.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/r8z/rplugins/main/MessageCleaner/MessageCleaner.plugin.js
+ * @website https://github.com/r8z/rplugins/tree/main/MessageCleaner/MessageCleaner.plugin.js
  * @authorId 361501992645820416
  */
 
@@ -44,7 +44,7 @@ module.exports = (() => {
          version: '1.1.4',
          description: 'Clears messages in the current channel.',
          github: 'https://github.com/r8z',
-         github_raw: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/MessageCleaner/MessageCleaner.plugin.js'
+         github_raw: 'https://raw.githubusercontent.com/r8z/rplugins/main/MessageCleaner/MessageCleaner.plugin.js'
       },
       defaultConfig: [
          {
@@ -139,8 +139,8 @@ module.exports = (() => {
             {
                global: 'CommandsAPI',
                filename: '2CommandsAPI.plugin.js',
-               external: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/CommandsAPI/2CommandsAPI.plugin.js',
-               url: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/CommandsAPI/2CommandsAPI.plugin.js'
+               external: 'https://raw.githubusercontent.com/r8z/rplugins/main/CommandsAPI/2CommandsAPI.plugin.js',
+               url: 'https://raw.githubusercontent.com/r8z/rplugins/main/CommandsAPI/2CommandsAPI.plugin.js'
             }
          ];
 
