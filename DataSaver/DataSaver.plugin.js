@@ -44,7 +44,7 @@ module.exports = (() => {
          version: '1.0.5',
          description: 'Saves friends & Servers every 30 minutes to a file.',
          github: 'https://github.com/r8z',
-         github_raw: 'https://raw.githubusercontent.com/slow/better-discord-plugins/master/DataSaver/DataSaver.plugin.js'
+         github_raw: 'https://raw.githubusercontent.com/r8z/better-discord-plugins/main/DataSaver/DataSaver.plugin.js'
       },
    };
 
